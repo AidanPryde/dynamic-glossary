@@ -1,0 +1,10 @@
+{
+  "ids": {
+    "User": 2
+  },
+  "models": {
+    "User": {
+      "1": "{\"email\":\"marton.pesko@t-systems.com\",\"password\":\"$2a$10$QULIr49v9OYanA47A7I68OWq0EXO2BU751KQdY/T3YP./ZQV8Nelm\",\"firstName\":\"Márton\",\"lastName\":\"Peskó\",\"id\":1}"
+    }
+  }
+}
